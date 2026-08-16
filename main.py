@@ -502,7 +502,7 @@ async def my_chat_member_handler(update: Update, context: ContextTypes.DEFAULT_T
 
 async def start_handler(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "👋 *Welcome to @Videos\\_2\\_sticker\\_robot!*\n\n"
+        "👋 *Welcome to @Videos_2_sticker_robot!*\n\n"
         "Send me any:\n"
         "🎬 Video (up to 30s, longer ones auto-trimmed)\n"
         "🖼️ Photo\n"
