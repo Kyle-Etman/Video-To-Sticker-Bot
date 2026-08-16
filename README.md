@@ -4,7 +4,7 @@ A powerful Telegram bot that converts **Videos**, **Photos**, and **GIFs** into
 Telegram Stickers instantly using FFmpeg!
 
 > 🤖 Bot Link → [@Videos_2_sticker_robot](https://t.me/Videos_2_sticker_robot)
-> 📢 Updates Channel → [@KIRA_BOTS](https://t.me/KIRA_BOTS)
+> 📢 Updates Channel → [@SherlockRobots](https://t.me/SherlockRobots)
 > 👑 Owner → [@zoastra](https://t.me/zoastra)
 
 ---
